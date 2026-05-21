@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 70" width="630" height="70">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 70">
   <style>
     rect { fill: #1a1a1a; }
     @media (prefers-color-scheme: dark) { rect { fill: #e0e0e0; } }

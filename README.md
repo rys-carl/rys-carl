@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="JC REYES" />
+  <img src="header.svg" alt="JC REYES" width="400" />
 </p>
 
 <p align="center">Geek · Self-taught · Aspiring Frontend Developer, System Admin, or QA</p>
@@ -42,11 +42,6 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rys-carl&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rys-carl&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rys-carl&theme=default&hide_border=true" />
